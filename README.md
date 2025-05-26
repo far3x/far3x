@@ -1,5 +1,5 @@
 python python python python (i love python)
 
-working on : lumen, coding platform (learn with ai), gitbook/mintlify but open sourced
+working on : gitbook/mintlify but open sourced, coding platform (learn code with ai)
 
 learning : golang
