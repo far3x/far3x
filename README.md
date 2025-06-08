@@ -3,3 +3,5 @@
 python python python python (i love python)
 
 learning golang
+
+looking for an internship (quant dev/backend) august/september start in paris
