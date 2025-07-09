@@ -1,4 +1,4 @@
-<a href="https://far3k.xyz/">far3k.xyz</a> - <a href="https://lumen.onl/">lumen.onl</a> -> demo, beta soon (branch on /lumen for beta testers)
+<a href="https://far3k.xyz/">far3k.xyz</a>
 
 python python python python (i love python)
 
