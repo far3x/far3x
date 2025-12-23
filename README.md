@@ -1,1 +1,1 @@
-pursuing flow state.
+pursuing flow state // internet degenerate
